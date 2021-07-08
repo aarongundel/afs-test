@@ -6,26 +6,6 @@
 	],
 	"settings": {
 		"sqltools.connections": [
-			{
-				"previewLimit": 50,
-				"server": "localhost",
-				"port": 5432,
-				"driver": "PostgreSQL",
-				"name": "AFS-Local",
-				"database": "afs",
-				"username": "aarongundel",
-				"password": ""
-			},
-			{
-				"previewLimit": 50,
-				"server": "localhost",
-				"port": 5432,
-				"askForPassword": true,
-				"driver": "PostgreSQL",
-				"name": "esri_utils-local",
-				"database": "esri_utils",
-				"username": "aarongundel"
-			}
 		]
 	}
 }
