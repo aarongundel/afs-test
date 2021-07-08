@@ -1,0 +1,6 @@
+[submodule "afs"]
+	path = afs
+	url = git@github.com:archesproject/arches-for-science-prj.git
+[submodule "arches"]
+	path = arches
+	url = git@github.com:archesproject/arches.git
