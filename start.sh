@@ -7,4 +7,5 @@ else
 fi
 
 cd afs
+docker compose build
 docker compose up
